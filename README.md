@@ -31,4 +31,4 @@
   <a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-de-andrade-80919b257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Guilherme150901/count.svg" /></p>
