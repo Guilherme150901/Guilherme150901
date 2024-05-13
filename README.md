@@ -32,5 +32,3 @@
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Guilherme150901/count.svg" /></p>
-
-![snake gif](https://github.com/Guilherme150901/Guilherme150901/blob/output/github-contribution-grid-snake.svg)
