@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=438ab6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63baf0&height=120&section=header"/>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Guilherme!+👋🏼😃;Bem-vindo+ao+meu+Github+📈" alt="Typing SVG" />
 
@@ -44,7 +44,7 @@
 
 <div align="center">
   <p><strong>Codificando e Aprendendo 🖥️📚</strong></p>
-  <img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" width="700">
+  <img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" width="800">
 </div>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7ee23b143584307.627d1059832ae.gif" width="500">
+
 
