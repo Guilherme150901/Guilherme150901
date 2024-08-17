@@ -44,5 +44,7 @@
 
 <div align="center">
   <p><strong>Codificando e Aprendendo 🖥️📚</strong></p>
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7ee23b143584307.627d1059832ae.gif" width="500">
+  <img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" width="700">
 </div>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7ee23b143584307.627d1059832ae.gif" width="500">
+
