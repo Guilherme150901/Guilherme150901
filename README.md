@@ -1,26 +1,26 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79ff97&height=120&section=header"/>
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Guilherme!;bem-vindo+ao+meu+Github😃" alt="Typing SVG" />
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Guilherme!;Bem-vindo+ao+meu+Github+😃" alt="Typing SVG" />
 
 
 </h1>
 
 ### Sobre Mim📝
 <p>
-  Como estudante de Análise e Desenvolvimento de Sistemas (ADS), estou sempre em busca de aprendizado contínuo e apaixonado por compartilhar meus conhecimentos.🧠👨🏾‍💻
+  Como estudante de Análise e Desenvolvimento de Sistemas e fazendo curso na Infinity School (escola de programação), estou sempre em busca de aprendizado contínuo ! 
 </p>
 
 <p align="center">
   <ul>
     <li> Tenho habilidades com JavaScript, HTML e CSS</li>
     <li>Git e GitHub</li>
-    <li> Desenvolvimento de software.</li>
+    <li>Em busca de um estágio na área de Desenvolvimento de software.</li>
   </ul>
 </p>
 
 ### GitHub Stats 
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme150901&theme=dark&show_icons=true)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme150901&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Guilherme150901&theme=dark&layout=compact)
 
 ##
@@ -43,6 +43,6 @@
 ##
 
 <div align="center">
-  <p><strong>Codificando e Aprendendo 📚</strong></p>
+  <p><strong>Codificando e Aprendendo 🖥️📚</strong></p>
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7ee23b143584307.627d1059832ae.gif" width="500">
 </div>
