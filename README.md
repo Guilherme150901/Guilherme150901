@@ -7,7 +7,7 @@
 
 ### Sobre Mim📝
 <p>
-  Como estudante de Análise e Desenvolvimento de Sistemas e fazendo curso na Infinity School (escola de programação), estou sempre em busca de aprendizado contínuo ! 
+  Como estudante de Análise e Desenvolvimento de Sistemas e fazendo curso na Infinity School (escola de programação), estou sempre em busca do aprendizado contínuo ! 
 </p>
 
 <p align="center">
