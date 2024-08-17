@@ -1,37 +1,48 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79ff97&height=120&section=header"/>
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Guilherme+%F0%9F%91%8B%F0%9F%8F%BE%F0%9F%98%80;Welcome+to+me+profile!+%F0%9F%93%8A" alt="Typing SVG" />
+
+
+</h1>
+
+### Sobre Mim📝
+<p>
+  Como estudante de Análise e Desenvolvimento de Sistemas (ADS), estou sempre em busca de aprendizado contínuo e apaixonado por compartilhar meus conhecimentos.🧠👨🏾‍💻
+</p>
+
+<p align="center">
+  <ul>
+    <li> Tenho habilidades com JavaScript, HTML e CSS</li>
+    <li>Git e GitHub</li>
+    <li> Desenvolvimento de software.</li>
+  </ul>
+</p>
+
+### GitHub Stats 
+
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme150901&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Guilherme150901&theme=dark&layout=compact)
+
+##
+### Habilidades 
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+##
+### Conecte-se comigo
+<div> 
+  <a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-de-andrade-80919b257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gui15092001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/guilherm_andrade01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+##
 
 <div align="center">
-<h2> Seja, bem vindo!</h2>
+  <p><strong>Codificando e Aprendendo 📚</strong></p>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7ee23b143584307.627d1059832ae.gif" width="500">
 </div>
-</br>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/Guilherme150901">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme150901&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme150901&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-</br>
- <div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- </div>
-</br>
-
- <div align="center">
-  <a href="https://www.youtube.com/c/guilhermegoncalves2600" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/guilherm_andrade01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<!--   <a href = "mailto:gui15092001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- -->
-   <a href="mailto:gui15092001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  <a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-de-andrade-80919b257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-</br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Guilherme150901/count.svg" /></p>
