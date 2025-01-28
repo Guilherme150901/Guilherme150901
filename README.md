@@ -12,7 +12,7 @@
 
 <p align="center">
   <ul>
-    <li> Tenho habilidades com JavaScript, HTML e CSS</li>
+    <li> Tenho habilidades com JavaScript, HTML, CSS e Python</li>
     <li>Git e GitHub</li>
     <li>Em busca de um estágio na área de Desenvolvimento de software.</li>
   </ul>
