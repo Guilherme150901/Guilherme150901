@@ -1,9 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63baf0&height=120&section=header"/>
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Guilherme!+👋🏼😃;Bem-vindo+ao+meu+Github+📈" alt="Typing SVG" />
-
-
-</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Guilherme!+👋🏼😃;Bem-vindo+ao+meu+Github+📈" alt="Typing SVG" /></h1>
 
 ### Sobre Mim📝
 <p>
