@@ -30,7 +30,7 @@
 
 <h3 align="left">💻 Tecnologias</h3>
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,react,tailwind,git,github,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,py,react,tailwind,git,github,mysql&theme=dark" />
 </div>
 
 ##
