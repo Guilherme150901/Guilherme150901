@@ -6,7 +6,7 @@
 <div align='center'>
 
 <div align="center">
-  <h3 align="left">📈 Estatísticas</h3>
+  <h3 align="left">📊 Estatísticas</h3>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilherme150901&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme150901&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
@@ -39,15 +39,15 @@
 
 <div>
   <a href="https://www.linkedin.com/in/guilhermegandrade/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="Linkedin" width="35px"/>
   </a>
 
   <a href="mailto:gui15092001@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="35px" />
   </a>
 
   <a href="https://www.instagram.com/guilherm_andrade01/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="35px"/>
   </a>
 </div>
 
