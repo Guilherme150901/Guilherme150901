@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="850px" height="350px" src="./.github/assets/."/>
+  <img width="850px" height="350px" src="./.github/assets/banner.png"/>
   <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
   <h3>Codificando e Aprendendo 🖥️📚</h3>
-  <img src="https://i.pinimg.com/originals/2d/29/40/2d2940898055620e0c58128c629d1b8c.gif" width="800" height="350px">
+  <img src="https://i.pinimg.com/originals/2d/29/40/2d2940898055620e0c58128c629d1b8c.gif" width="600" height="250px">
 </div>
 
 
